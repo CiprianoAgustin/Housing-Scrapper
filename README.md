@@ -8,8 +8,6 @@ Meet housing scrapper, an app that queries the listings sites for you and notifi
 
 This initial version is aimed at the Argentinean market, therefore there are only providers that list housing in Argentina.
 
-I'd love to receive comments, bugs, ideas, suggestion (I don't use Python daily, please help me be more pythonic if you'd like to), etc. Hit me at rodrigouroz@gmail.com or file an issue in the repo.
-
 ## Instalation
 This was tested with Python 3.8.
 
