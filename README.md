@@ -73,10 +73,6 @@ providers:
     base_url: 'https://www.properati.com.ar'
     sources:
       - '/departamento/alquiler/ambientes:2'
-  inmobusqueda:
-    base_url: 'https://www.inmobusqueda.com.ar'
-    sources:
-      - '/departamento-alquiler-la-plata-casco-urbano.html?cambientes=2.'
 ```
 
 If you have issues with SSL certificates you can disable SSL validation with the attribute `disable_ssl`, by default it is enabled.
